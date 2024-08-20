@@ -1,6 +1,6 @@
 # What is Docker? Three Major Innovations
 
-> Nav: [Back to Intro Lectures](../README.md)
+> Nav: [Back to Intro Lectures](../README.md) 
 
 Welcome to the future of software management.
 

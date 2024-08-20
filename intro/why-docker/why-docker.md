@@ -1,6 +1,6 @@
 # Why does Docker exist?
 
-> Nav: [Back to Intro Lectures](../README.md)
+> Nav: [Back to Intro Lectures](../README.md) 
 
 Now that you know the basics of what Docker is, you might be thinking that this sounds like a lot of work to re-package software so that we can run it a different way. Obviously we all were building, distributing, and running software before Docker came along, so "Why Docker, and Why Now?".
 

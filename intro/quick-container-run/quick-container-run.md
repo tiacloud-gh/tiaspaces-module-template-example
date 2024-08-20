@@ -1,6 +1,6 @@
 # Play with Docker
 
-> Nav: [Back to Intro Lectures](../README.md)
+> Nav: [Back to Intro Lectures](../README.md) 
 
 A quick way to start a container before we get into the details.
 
